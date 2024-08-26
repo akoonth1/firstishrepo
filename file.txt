@@ -3,4 +3,4 @@ To edit in command-line use the
 nano command.
 -This is a secondbranch change.
 -This is for a commit on a second branch after remote has been setup
-
+-Using GUI
