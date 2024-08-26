@@ -1,0 +1,4 @@
+This is a text file for demo.
+To edit in command-line use the
+nano command.
+
